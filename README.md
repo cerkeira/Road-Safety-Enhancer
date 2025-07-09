@@ -2,11 +2,11 @@
 
 An **affordable blind spot detection system** for motorcyclists, designed to enhance road safety and rider awareness using simple and accessible components.
 
-## 🔧 Components (≈ 45€)
+## 🔧 Components (≈ 53€)
 
 - ESP32 Devkit – ≈ 12€
 - Adafruit Neopixel Strip (min. 6 LEDs) – ≈ 16€
-- Powerbank – ≈ 10€
+- Powerbank – ≈ 12€
 - 3× HC-SR04 sensors *(can be replaced by waterproof JSN-SR04T)*
 - 3× 1kΩ resistors
 - 3× 2.2kΩ resistors
